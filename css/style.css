@@ -1,0 +1,46 @@
+*{
+  transition-duration: .5s;   
+}
+
+#all-content{
+    margin: 0 auto;
+    width: 1024px;
+    height: 748px;
+    text-align: center;
+}
+#honda{
+    width: 150px;
+    height: 150px;
+    float: right;  
+}
+
+#alianca{
+    width: 190px;
+    height: 90px;
+    float: left;
+    margin-top: 30px;
+}
+
+#acess{
+    font: italic bold 40px sans-serif;
+    text-shadow: 2px 2px 0 #4387FD;
+    color: white; text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+#acess:hover{
+    color: #4387FD; text-shadow: black 0.1em 0.1em 0.2em;
+    
+}
+
+#about{
+    font: italic bold 20px sans-serif;
+    text-shadow: 2px 2px 0 #4387FD;
+}
+
+#about:hover{
+    color: white; text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+#logo{
+
+}
